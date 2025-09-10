@@ -30,4 +30,4 @@ This repository contains assignments and practice projects completed during my Q
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/GoIT-QA-Test.git
+   git clone https://github.com/aticimelisa/GoIT-QA-Test.git
