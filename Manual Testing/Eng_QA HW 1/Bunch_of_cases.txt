@@ -1,0 +1,17 @@
+Case 1) You are a test specialist in a project with an urgent delivery. After the release to the production environment, users discover a defect. The manager blames the test specialist for overlooking the defect. Explain your actions in this situation (explain in text what you would do in this case).
+
+Answer
+
+In such a situation, I would meet with my manager during a meeting or face-to-face and first acknowledge their reaction and feelings. I would express that I understand how stressful and undesirable it is for users to encounter a defect after the release to the production environment.
+Then, I would explain that the purpose of testing is not to prove the absence of defects but to reveal their presence. Exhaustive testing is impossible. For example, if we tried to test every possible scenario of a simple calculator—considering sleeping and eating hours as well—we would need four people testing until the age of 60. Therefore, I would emphasize that prioritization and a risk-based approach are applied in testing processes.
+Next, I would underline that no software can ever be completely defect-free and that the idea of ‘no defects’ is simply a fallacy. As a QA specialist, my responsibility is to minimize risks and ensure that the most critical functionalities work as expected.
+After that, instead of focusing on blame, I would propose conducting a root cause analysis. I would suggest evaluating together whether the missed defect was due to unclear requirements, missing test cases, environment differences, or prioritization gaps.
+Finally, I would outline steps to improve the process: expanding regression test coverage, defining acceptance criteria more clearly, and strengthening communication between development, product, and QA teams. In this way, I would emphasize that we can reduce the likelihood of similar issues recurring in the future.
+
+Case 2) You send the defect report back to the developer for the third time for fixing. The developer says everything is working and returns the defect report for testing. Explain what you would do in this situation (explain only in text what you would do in this case).
+
+Answer
+
+First, I would re-document the defect in a reproducible, step-by-step manner, adding evidence such as the environment in which it occurs, the data used, screenshots, and log records. Then I would contact the developer directly and propose a brief meeting or one-on-one session to examine the defect live together. This way, I can demonstrate that the issue truly reproduces, or we might together notice differences between the test and development environments.
+Afterward, I would explain that every human can make mistakes; if we never made mistakes, my role would not carry the importance it does. I would also acknowledge that not communicating this process properly is a shortcoming on my part as a tester. If, after this joint verification, differing views still remain, I would bring the matter to the team lead or project manager with objective evidence. My goal is not to assign blame, but to clarify whether the defect has truly been resolved.
+Finally, to prevent a recurrence of this situation, I would review the reporting standard and ensure that defect reports are clear, understandable, and supported with solid evidence.
